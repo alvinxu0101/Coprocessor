@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.elasticsearch:elasticsearch:${elasticsearch.version}">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/${elasticsearch.version}/elasticsearch-${elasticsearch.version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/${elasticsearch.version}/elasticsearch-${elasticsearch.version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/${elasticsearch.version}/elasticsearch-${elasticsearch.version}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
